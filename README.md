@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🧑‍🌾 I’m currently working on a tool for drought prediction to help farmers<br>🤖 I’m looking to collaborate on machine learning ideas<br>🌱 I’m currently learning Tensor and PyTorch<br>📫 How to reach me: puttaaarnav23@gmail.com or app6000@psu.edu</p>
+<p align="left">🧑‍🌾 I’m currently working on a tool for drought prediction to help farmers<br>🤖 I’m looking to collaborate on machine learning ideas<br>🌱 I’m currently learning Tableau and PyTorch<br>📫 How to reach me: puttaaarnav23@gmail.com or app6000@psu.edu</p>
 
 ###
 
