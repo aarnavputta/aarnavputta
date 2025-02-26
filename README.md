@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Passionate AI/ML Engineer</p>
+<p align="left">Passionate about leveraging ML/AI for financial modelling</p>
 
 ###
 
