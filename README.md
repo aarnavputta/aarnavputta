@@ -1,8 +1,10 @@
-$ whoami
-aarnav putta — sf-based, building cool ai products
+```
+aarnav@sf ~ % whoami
+aarnav putta — building cool ai products
 
-$ cat now.txt
+aarnav@sf ~ % cat now.txt
 heads-down on something in the insurtech space
 
-$ contact --email
+aarnav@sf ~ % echo $CONTACT
 puttaaarnav23@gmail.com
+```
