@@ -1,9 +1,9 @@
 ```
 aarnav@sf ~ % whoami
-aarnav putta — building cool ai products
+aarnav putta — i like building data/ai products
 
 aarnav@sf ~ % cat now.txt
-heads-down on something in the insurtech space
+building something cool in the insurtech space
 
 aarnav@sf ~ % echo $CONTACT
 puttaaarnav23@gmail.com
